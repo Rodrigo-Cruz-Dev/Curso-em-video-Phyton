@@ -1,0 +1,5 @@
+Monica;8
+Cebola;7
+Magali;9
+Cascao;7
+Rodrigo;37

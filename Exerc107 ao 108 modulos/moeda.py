@@ -1,4 +1,3 @@
-import locale
 
 def aumentar(v,p):
     valor = v + ( p/100) * v

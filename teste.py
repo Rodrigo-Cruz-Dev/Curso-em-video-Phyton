@@ -1,5 +1,5 @@
-from datetime import datetime, timedelta
-
- 
-new_date = datetime(2022, 1, 1, 15, 30)
-print(new_date)
+num = [2, 8, 4, 7]
+num.pop()
+num.insert(1,3)
+num.append(6)
+print(num)
